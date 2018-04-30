@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="setfx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/setfx_jar</output-path>
+    <root id="archive" name="setfx.jar">
+      <element id="module-output" name="setfx" />
+    </root>
+  </artifact>
+</component>
